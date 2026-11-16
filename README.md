@@ -32,8 +32,8 @@ The goal of this repository is to build a strong practical understanding of Mach
 
 | 🎓 **Student Information** | |
 |:---|:---|
-| 👨‍💻 **Name** | Hemanth K M |
-| 🆔 **USN** | 4NI24CI050 |
+| 👨‍💻 **Name** | Pavan M R|
+| 🆔 **USN** | 4NI24CI074 |
 | 💻 **Branch** | Computer Science and Engineering – Artificial Intelligence & Machine Learning |
 | 🏛️ **Institution** | The National Institute of Engineering, Mysuru |
 | 📚 **Semester** | 5th Semester |
